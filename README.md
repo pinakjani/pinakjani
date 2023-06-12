@@ -18,24 +18,12 @@ Here are some ideas to get you started:
 ### Education 🎓
 - Master of Science in Robotics Engineering, [Worcester Polytechnic Institute, MA, USA](https://www.wpi.edu/) (May 2023)
 ___
-<!-- 
-### Key Projects 🔭
+## Key Projects 🔭
+- [Navigation Stack for Autonomous Vehicle](https://github.com/Tensor-Robotics/navigation_stack) (Localization)
+- [Object Detection and Segmentation using ARMBench Dataset](https://github.com/pinakjani/ARMBench_Object_Segmentation) (Deep Learning, Computer Vision)
+- [Autonomous Wound Care](https://github.com/pinakjani/Autonomous_Wound_Care) (Computer Vision, Deep Learning, Robot Manipulation)
 
-- [Depth and Pose Estimation from Monocular Camera Motion](https://github.com/aniketmpatil/sfml) (Research with [PeAR Group](https://pear.wpi.edu))
-- [Semantic Segmentation of LiDAR Point Cloud for Autonomous Vehicles](https://github.com/aniketmpatil/semantic_segmentation) (Deep Learning)
-- [Stereo Visual Odometry](https://github.com/aniketmpatil/Visual-Odometry) (Computer Vision)
-- [Reinforcement Learning for Lane Keeping and Obstacle Avoidance of Autonomous Vehicles](https://github.com/aniketmpatil/RL-Highway-Env-Project) (Reinforcement Learning)
-- [Human-Aware Robot Navigation](https://github.com/dennyboby/human_aware_robot_navigation) (Motion Planning)
-- [Visual Servoing ROS Package](https://github.com/aniketmpatil/visual_servoing) (Vision Based Manipulation)
-- [SCARA Robot ROS Package](https://github.com/aniketmpatil/scara_robot) (ROS Project)
-
-- Motion Planning Algorithm Implementations 
-  - [BFS, DFS, A* and Dijkstra](https://github.com/aniketmpatil/basic-search-algorithms)
-  - [RRT, RRT* and PRM](https://github.com/aniketmpatil/standard-search-algorithms)
-  - [D* and Informed RRT* Algorithms](https://github.com/aniketmpatil/advanced-search-algorithms)
--->
-
-<!-- ___ -->
+___
 ### Contact 📫
 <!-- - Website: [aniketmpatil.github.io](https://aniketmpatil.github.io/) -->
 
