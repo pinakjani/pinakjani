@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - LinkedIn: [Pinak Jani](https://www.linkedin.com/in/pinak-jani/)
 - Email: [phjani@wpi.edu](mailto:phjani@wpi.edu)
 
-- 🎓 Graduate Student at [Worcester Polytechnic Institute](https://www.wpi.edu/academics/departments/robotics-engineering), MA, USA
+<!-- - 🎓 Graduate Student at [Worcester Polytechnic Institute](https://www.wpi.edu/academics/departments/robotics-engineering), MA, USA -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketmpatil&label=Profile%20views&color=0e75b6&style=flat" alt="aniketmpatil" /> </p>
 
@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 
 <!-- Currently, I am a Robotics graduate student at Worcester Polytechnic Institute, MA, USA. I am interested in Robotics and Computer Vision, but I like to explore other areas of Robotics as well in my free time. Speaking of free time, I am also a painter and photographer by passion. 
  -->
-<a href="https://www.linkedin.com/in/pinak-jani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="pj" height="30" width="40" /></a>
-&nbsp;<img width="25" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png">
+<!-- <a href="https://www.linkedin.com/in/pinak-jani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="pj" height="30" width="40" /></a>
+&nbsp;<img width="25" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"> -->
 
 ## My GitHub Stats
 [![Pinak's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinakjani)](https://github.com/pinakjani/github-readme-stats)
