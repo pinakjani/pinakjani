@@ -1,4 +1,4 @@
-## Welcome to my GitHub page! 👋 - Pinak Jani
+# Welcome to my GitHub page! 👋 - Pinak Jani
 
 <!--
 **aniketmpatil/aniketmpatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,21 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Education 🎓
+## Education 🎓
 - Master of Science in Robotics Engineering, [Worcester Polytechnic Institute, MA, USA](https://www.wpi.edu/) (May 2023)
-___
+
 ## Key Projects 🔭
 - [Navigation Stack for Autonomous Vehicle](https://github.com/Tensor-Robotics/navigation_stack) (Localization)
 - [Object Detection and Segmentation using ARMBench Dataset](https://github.com/pinakjani/ARMBench_Object_Segmentation) (Deep Learning, Computer Vision)
 - [Autonomous Wound Care](https://github.com/pinakjani/Autonomous_Wound_Care) (Computer Vision, Deep Learning, Robot Manipulation)
 
-___
-### Contact 📫
+## Contact 📫
 <!-- - Website: [aniketmpatil.github.io](https://aniketmpatil.github.io/) -->
 
 - LinkedIn: [Pinak Jani](https://www.linkedin.com/in/pinak-jani/)
 - Email: [phjani@wpi.edu](mailto:phjani@wpi.edu)
-___
 
 - 🎓 Graduate Student at [Worcester Polytechnic Institute](https://www.wpi.edu/academics/departments/robotics-engineering), MA, USA
 
