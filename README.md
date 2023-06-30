@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - [Navigation Stack for Autonomous Vehicle](https://github.com/Tensor-Robotics/navigation_stack) (Localization)
 - [Object Detection and Segmentation using ARMBench Dataset](https://github.com/pinakjani/ARMBench_Object_Segmentation) (Deep Learning, Computer Vision)
 - [Autonomous Wound Care](https://github.com/pinakjani/Autonomous_Wound_Care) (Computer Vision, Deep Learning, Robot Manipulation)
+- [Reconstruction using Structure from Motion](https://github.com/aniketmpatil/Classical-SfM) (Computer Vision)
+
 
 ## Contact 📫
 <!-- - Website: [aniketmpatil.github.io](https://aniketmpatil.github.io/) -->
