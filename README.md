@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 &nbsp;<img width="25" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"> -->
 
 ## My GitHub Stats
-[![Pinak's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinakjani)](https://github.com/pinakjani/github-readme-stats)
+[![Pinak's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pinakjani)](https://github.com/pinakjani/github-readme-stats)
 
